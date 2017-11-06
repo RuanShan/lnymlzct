@@ -36,7 +36,7 @@
     position: relative;
     margin: 100px auto;
     width: 520px;
-	
+
 }
 
 .seven {
@@ -65,7 +65,7 @@
     margin-left: 20px;
     margin-top: 15px;
     font-size: 22px;
-    color: #019634;
+    color: #006934;
     border-right-style: solid;
     border-right-color: #286090;
     border-right-width: 2px;
@@ -85,7 +85,7 @@
     font-size: 21px;
     text-indent: 2em;
     letter-spacing: 3px;
-    
+
     line-height: 28px;
 }
 
@@ -95,17 +95,17 @@
     font-size: 20px;
     text-indent: 2em;
     letter-spacing: 3px;
-    
+
     line-height: 23px;
 }
 
 .jiebenzengxiao{
-    background-color: #019634;
+    background-color: #006934;
     color: white;
     text-align: center;
     font-size: 36px;
     letter-spacing: 3px;
-    
+
     /*display: table-cell;*/
     /*vertical-align:middle;*/
 }
@@ -160,7 +160,7 @@
     text-align: center;
     font-size: 36px;
     letter-spacing: 3px;
-    
+
     /*display: table-cell;*/
     /*vertical-align:middle;*/
 }
