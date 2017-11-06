@@ -1,0 +1,214 @@
+.companyprofile {
+    height: 40px;
+    line-height: 60px;
+    /*text-align: center;*/
+}
+
+.companyprofile .line {
+    display: inline-block;
+    width: 40px;
+    border-top: 3px solid #3e8f3e;
+}
+
+.companyprofile .txt {
+    color: #000000;
+    vertical-align: middle;
+}
+
+.shou {
+    height: 546px;
+    background: url(../images/1.png) no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.cetupeifang {
+    width: 480px;
+    padding: 80px 0 80px;
+    position: relative;
+    margin: 0 auto;
+}
+
+#zhuanye {
+    color: white;
+    font-size: 40px;
+    letter-spacing: 5px;
+    position: relative;
+    margin: 100px auto;
+    width: 520px;
+	
+}
+
+.seven {
+    margin: 10px 30px 0px 30px;
+}
+
+#jiangtou {
+    list-style-image: url(../images/13.png);
+}
+
+.background-gray {
+    height: 400px;
+    background-color: #d5d5d5;
+}
+
+.arrows {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 1px;
+    float: left;
+    width: 28px;
+    height: 28px;
+}
+
+.arrowsexplain {
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 22px;
+    color: #019634;
+    border-right-style: solid;
+    border-right-color: #286090;
+    border-right-width: 2px;
+    margin-left: 8%;
+    letter-spacing: 1px;
+}
+
+.buzhou{
+    background-image: url(../images/14.png);
+    background-repeat:no-repeat;
+	background-position: left bottom;
+}
+.buzhou p{
+	padding-bottom: 18px;
+}
+.jianjie {
+    font-size: 21px;
+    text-indent: 2em;
+    letter-spacing: 3px;
+    
+    line-height: 28px;
+}
+
+.add{
+    padding-right: 60px;
+    padding-top: 20px;
+    font-size: 20px;
+    text-indent: 2em;
+    letter-spacing: 3px;
+    
+    line-height: 23px;
+}
+
+.jiebenzengxiao{
+    background-color: #019634;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    letter-spacing: 3px;
+    
+    /*display: table-cell;*/
+    /*vertical-align:middle;*/
+}
+
+.ytj{
+    margin-bottom: 0;
+    padding: 10px 0;
+}
+.yuanfang{
+    height: 102px;
+	line-height:102px;
+	font-size: 36px;
+	text-align:center;
+	color:#fff;
+	    letter-spacing: 3px;
+    background-image:url("../images/11.png");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    margin-left: 4%;
+    margin-right: 5%;
+}
+
+.centers{
+    width: 1000px;
+    display:block;
+    margin: 0 auto;
+    /*text-align:center;*/
+}
+
+.shijianzhengming{
+    height: 270px;
+    background-color:#ebebeb;
+}
+
+.buzhou img{
+    width: 80%;
+    height: 80%;
+}
+
+/*.xiaohua{*/
+    /*height: 475px;*/
+    /*background-image: url(../images/14.png);*/
+    /*background-repeat:no-repeat;*/
+    /*background-attachment:fixed;*/
+    /*background-position: 0px 0px;*/
+    /*!*background-size: 100% 100%;*!*/
+/*}*/
+
+.cetupeifangdeshifei{
+    background-color:#595757 ;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    letter-spacing: 3px;
+    
+    /*display: table-cell;*/
+    /*vertical-align:middle;*/
+}
+
+.xiaobiao{
+    width: 50%;
+    /*margin-left: 8px;*/
+    margin-bottom: 8px;
+}
+
+.caijituyang{
+    padding-top: 14px;
+    font-size: small;
+    text-indent: 2em;
+    letter-spacing: 0px;
+    font-family:宋体;
+    line-height: 13px;
+}
+.xuxina1{
+    padding-bottom: 15px;
+    border-bottom-style: dotted;
+    border-bottom-color: #595757;
+    border-bottom-width: 1px;
+    border-right-style: dotted;
+    border-right-color: #595757;
+    border-right-width: 1px;
+}
+
+.xuxina2{
+    padding-bottom: 0px;
+    border-right-style: dotted;
+    border-right-color: #595757;
+    border-right-width: 1px;
+    padding-top: 10px;
+}
+
+.quedingpeifang{
+    padding-bottom: 10px;
+    border-right-style: dotted;
+    border-right-color: #595757;
+    border-right-width: 1px;
+    padding-top: 0px;
+}
+
+.line_01{
+    margin: 40px 0;
+    line-height: 2px;
+    border-left: 300px solid #101010;
+    border-right: 300px solid #101010;
+    text-align: center;
+}
