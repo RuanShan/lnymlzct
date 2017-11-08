@@ -12,6 +12,7 @@
     <meta name="renderer" content="webkit">
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
     <link href="./styles/app.css" rel="stylesheet" type="text/css"/>
+    <link href="./styles/lightbox.min.css" rel="stylesheet" type="text/css"/>
     <!--[if lt IE 9]>
       <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
@@ -390,7 +391,9 @@
         <div class="row-fluid">
             <div class="row-fluid">
                 <div class="col-md-6">
-                    <img alt="140x140" src="./images/28.png" style="width: 100%;"/>
+                    <a href="./images/28_1.png" data-lightbox="image-1" data-title"><img alt="140x140" src="./images/28_1.png" style="height: 232px;"/></a>
+                    <a href="./images/28_2.png" data-lightbox="image-1" data-title"><img alt="140x140" src="./images/28_2.png" style="height: 232px;"/></a>
+                    <a href="./images/28_3.png" data-lightbox="image-1" data-title"><img alt="140x140" src="./images/28_3.png" style="height: 232px;"/></a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -452,5 +455,6 @@
 <!--注意：jquery文件必须在bootstrap.min.js文件之前引入-->
 <script type="text/javascript" src="./js/jquery-3.0.0.min.js"></script>
 <script type="text/javascript" src="./js/bootstrap.min.js"></script>
+<script type="text/javascript" src="./js/lightbox.min.js"></script>
 </body>
 </html>
